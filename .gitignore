@@ -1,0 +1,4 @@
+*.exe
+user.h
+main.cpp
+date.h
